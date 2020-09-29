@@ -1,6 +1,8 @@
 # Backend-app
 
-## run locally
+A rudimentary database to ilustrate volumes on k8s.
+
+## Run locally
 
 ```bash
 cd app
@@ -8,7 +10,7 @@ cd app
 ./start.sh
 ```
 
-## run with docker
+## Run with docker
 
 ```bash
 ./start.sh
